@@ -6,9 +6,9 @@ The project is an open-source, low-cost, robust, and modular kit for robotics ed
 See the robot in action here: https://youtu.be/_lbKIpiRWKI
 
 The kit is composed of:
-1) the solid model in SolidWorks and .STEP formats;
-2) the video instructions for mechanical assembling;
-3) the electrical wiring diagram;
-4) the MATLAB-nased dynamic simulator code and instructions;
-5) the complete list of components and quantities; and
+1) the solid model in SolidWorks and .STEP formats
+2) the video instructions for mechanical assembly: https://youtu.be/CDxhdjob2C8
+3) the electrical wiring diagram
+4) the MATLAB-nased dynamic simulator code and instructions
+5) the complete list of components and quantities, and
 6) the basic code for the microcontroller.
