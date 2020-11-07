@@ -1,7 +1,5 @@
-----------------------------------------------------------------------------------------------------------------------------------------
----------------------------------------------------------HOPPY-Project------------------------------------------------------------------
---------------------------------HOPPY: An open-source and low-cost kit for dynamic robotics education-----------------------------------
-----------------------------------------------------------------------------------------------------------------------------------------
+#----------------------------HOPPY-Project----------------------------
+#HOPPY: An open-source and low-cost kit for dynamic robotics education
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 CONTENTS OF THIS FILE
@@ -11,6 +9,7 @@ CONTENTS OF THIS FILE
  * General Notes
  * Setting up CCS 
  * CAD 
+
 Introduction
 ------------
 
@@ -49,9 +48,11 @@ CAD
 The CAD models of the entire setup are inlcuded in SolidWorks and .STEP formats. Video  instructions for mechanical assembly can found at the following link: https://youtu.be/CDxhdjob2C8
 
 The Bill of Materials (BOM), a complete list of components and quantities, is also listed in the folder. 
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 Simulator
 ---------
 
 Finally, the MATLAB-nased dynamic simulator code and instructions are included in its own folder. Further instructions are included within. 
+
 ----------------------------------------------------------------------------------------------------------------------------------------
