@@ -17,7 +17,9 @@ The project is an open-source, low-cost, robust, and modular kit for robotics ed
 
 
 Find out more in our overview paper: https://arxiv.org/pdf/2010.14580.pdf
+
 Assembly instructions can be found here: https://youtu.be/CDxhdjob2C8
+
 See the robot in action here: https://youtu.be/_lbKIpiRWKI
 
 ----------------------------------------------------------------------------------------------------------------------------------------
