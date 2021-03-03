@@ -1,6 +1,8 @@
 # ------------------------HOPPY-Project------------------------
 ## HOPPY: An open-source and low-cost kit for dynamic robotics education
 
+![HOPPY 2](https://user-images.githubusercontent.com/72820863/109865385-9af23500-7c29-11eb-8a4e-80609e3c8e9d.png)
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 CONTENTS OF THIS FILE
 ---------------------
