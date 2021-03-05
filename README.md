@@ -1,5 +1,5 @@
 # ------------------------HOPPY-Project------------------------
-## HOPPY: HOPPY: An Open-source Kit for Education with Dynamic Legged Robots
+## HOPPY: An Open-source Kit for Education with Dynamic Legged Robots
 ![HOPPY 2](https://user-images.githubusercontent.com/72820863/109865385-9af23500-7c29-11eb-8a4e-80609e3c8e9d.png)
 ----------------------------------------------------------------------------------------------------------------------------
 ## CONTENTS OF THIS FILE
@@ -17,8 +17,9 @@ Find out more in our overview paper: https://arxiv.org/pdf/2010.14580.pdf
 
 Assembly instructions can be found here: https://youtu.be/CDxhdjob2C8
 
-See the robot in action here: https://youtu.be/_lbKIpiRWKI
-
+See the robot in action here: 
+https://youtu.be/_lbKIpiRWKI
+https://www.youtube.com/watch?v=AvJIx4CQarM
 -----------------------------------------------------------------------------------------------------------------------------
 ## General Notes
 -------------
@@ -51,6 +52,14 @@ The Bill of Materials (BOM), a complete list of components and quantities, is al
 ## Simulator
 ---------
 
-Finally, the MATLAB-based dynamic simulator code and instructions are included in its own folder. Further instructions are included within. 
+The MATLAB-based dynamic simulator code is included in folder "Simulator_MATLAB". Instructions for using the simulator are included within the folder. To start the simulation, run the file
+```
+...\Simulator_MATLAB\MAIN.m
+```
+If the code works properly, the following GUI will show up and a video file will be generated.
+
 ![](https://i.imgur.com/Ck73nsp.gif)
+
+If you encounter any problems regarding the simulator, please raise an issue under this repo. 
+Enjoy!
 -----------------------------------------------------------------------------------------------------------------------------
