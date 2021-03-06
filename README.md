@@ -8,6 +8,7 @@
 * General Notes
 * Setting up CCS 
 * CAD 
+* Simulator
 
 ## Introduction
 ------------
@@ -53,7 +54,14 @@ The Bill of Materials (BOM), a complete list of components and quantities, is al
 ## Simulator
 ---------
 
-The MATLAB-based dynamic simulator code is included in folder "Simulator_MATLAB". Instructions for using the simulator are included within the folder. To start the simulation, run the file
+### Requirement
+MATLAB and MATLAB optimization toolbox
+
+### Installation
+There is no need to install external packages.
+
+### Usage
+Navigate to the folder "Simulator_MATLAB" and set the working directory of MATLAB to be this directory. To start the simulation, run the file
 ```
 ...\Simulator_MATLAB\MAIN.m
 ```
@@ -61,7 +69,9 @@ If the code works properly, the following GUI will show up and a video file will
 
 ![](https://i.imgur.com/Ck73nsp.gif)
 
-If you encounter any problems regarding the simulator, please raise an issue under this repo. 
+Please refer to the Code_Instruction.pdf file to navigate through each component of this simulator
+
+If you encounter any problems regarding the simulator, please raise an issue under this repo.
 
 Enjoy!
 -----------------------------------------------------------------------------------------------------------------------------
