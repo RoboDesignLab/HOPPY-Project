@@ -17,9 +17,10 @@ Find out more in our overview paper: https://arxiv.org/pdf/2010.14580.pdf
 
 Assembly instructions can be found here: https://youtu.be/CDxhdjob2C8
 
-See the robot in action here: 
+See the robot in action here:
 https://youtu.be/_lbKIpiRWKI
 https://www.youtube.com/watch?v=AvJIx4CQarM
+
 -----------------------------------------------------------------------------------------------------------------------------
 ## General Notes
 -------------
@@ -61,5 +62,6 @@ If the code works properly, the following GUI will show up and a video file will
 ![](https://i.imgur.com/Ck73nsp.gif)
 
 If you encounter any problems regarding the simulator, please raise an issue under this repo. 
+
 Enjoy!
 -----------------------------------------------------------------------------------------------------------------------------
